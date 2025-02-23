@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                // Add steps to run tests if applicable 1
+                // Add steps to run tests if applicable 2
                 echo 'Running tests...'
             }
         }
