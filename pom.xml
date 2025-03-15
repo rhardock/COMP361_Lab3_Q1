@@ -24,7 +24,7 @@
         <version>9.4.28.v20200408</version>
         <configuration>
           <httpConnector>
-            <port>8081</port>
+            <port>8080</port>
           </httpConnector>
         </configuration>
         <executions>
